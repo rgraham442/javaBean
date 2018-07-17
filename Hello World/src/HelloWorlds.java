@@ -59,7 +59,7 @@ public class HelloWorlds {
 		System.out.println(lvl2.unique(3,5,3));
 		System.out.println(lvl2.unique(7,3,3));
 		
-		
+		Level3.test();
 	}
 	
 }
